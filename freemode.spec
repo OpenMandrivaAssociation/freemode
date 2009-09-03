@@ -1,6 +1,6 @@
 %define name 	freemode
 %define version 3.0
-%define release %mkrel 5
+%define release %mkrel 6
 
 Summary: Alternative UI for freeplayer
 Name: 	 %{name}
