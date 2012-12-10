@@ -46,3 +46,36 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/freeplayer/http-fbx
 
 
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 3.0-7mdv2011.0
++ Revision: 618342
+- the mass rebuild of 2010.0 packages
+
+* Thu Sep 03 2009 Thierry Vignaud <tv@mandriva.org> 3.0-6mdv2010.0
++ Revision: 428890
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tv@mandriva.org> 3.0-5mdv2009.0
++ Revision: 245397
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 3.0-3mdv2008.1
++ Revision: 136423
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+    - import freemode
+
+
+* Fri Apr  7 2006 Jerome Martin <jmartin@mandriva.org> 3.0-3mdk
+- Updated with new freeplayer-common package
+
+* Thu Feb  2 2006 Jerome Martin <jmartin@mandriva.org> 3.0-2mdk
+- Fixed
+
+* Mon Dec 19 2005 Jerome Martin <jmartin@mandriva.org> 3.0-1mdk
+- Initial version
+
