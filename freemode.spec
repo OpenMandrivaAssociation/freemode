@@ -9,7 +9,7 @@ Release: %{release}
 Source0: %{name}-%{version}.tar.bz2
 License: GPL
 Group:   Video
-Url:     http://www.moktoipas.com/freemode/
+Url:     https://www.moktoipas.com/freemode/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Buildarch: noarch
 
